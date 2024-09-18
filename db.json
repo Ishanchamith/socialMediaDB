@@ -1,0 +1,17 @@
+{
+  "posts": [
+    { "id": 1, "title": "Introduction to Next.js" },
+    { "id": 2, "title": "Understanding React Hooks" },
+    { "id": 3, "title": "Exploring TypeScript with React" }
+  ],
+  "comments": [
+    { "id": 1, "body": "Great post! Very informative.", "postId": 1 },
+    { "id": 2, "body": "Thanks for the insights.", "postId": 2 },
+    { "id": 3, "body": "Looking forward to more articles on TypeScript.", "postId": 3 }
+  ],
+  "profile": {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "bio": "Software engineer and tech enthusiast."
+  }
+}
